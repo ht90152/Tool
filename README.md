@@ -36,7 +36,7 @@ major. minor(. build)
 修訂號：當你做了向下相容的問題修正
 
 | Date | Version | Type | Note |
-| ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | 2021-03-11 | 0.1.0 | Feature | | |
 | 2022-03-11 | 1.0.0 | Feature | mouse over tray icon show GUI |
 | 2022-03-14 | 1.1.0 | Refactor | split Recorder.ahk from tool.ahk and include it |
