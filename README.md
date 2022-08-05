@@ -29,6 +29,11 @@
 | File | toggleHiddenFilesDisplay() | Toggle Hidden Files Display |
 | | RUN ::{645FF040-5081-101B-9F08-00AA002F954E} | Open Recycle Bin |
 
+# Add your script
+1. new directory named "lib"
+2. add your script in directory lib
+3. add function in your script with Hotkey GUI
+
 # Version
 major. minor(. build)
 主版號：當你做了不相容的 API 修改
