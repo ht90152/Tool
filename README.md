@@ -17,7 +17,7 @@
 | | ttsStop() | TTS Stop |
 | web | googleSearch() | Google Search selection |
 | | google_translate() | Google translate selection |
-| Functions | sendDate() | Send Date (yyyy-MM-dd) |
+| Date | sendDate() | Send Date (yyyy-MM-dd) |
 | Text | reInput() | reInput selection (after changing input mode youself) |
 | | toUpper() | Uppercase selection |
 | | toLower() | Lowercase selection |
@@ -35,10 +35,10 @@
 3. add function in your script with Hotkey GUI
 
 # Version
-major. minor(. build)
-主版號：當你做了不相容的 API 修改
-次版號：當你做了向下相容的功能性新增
-修訂號：當你做了向下相容的問題修正
+major. minor(. build)\
+主版號：當你做了不相容的 API 修改\
+次版號：當你做了向下相容的功能性新增\
+修訂號：當你做了向下相容的問題修正\
 
 | Date | Version | Type | Note |
 | ---- | ---- | ---- | ---- |
