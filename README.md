@@ -4,6 +4,14 @@ Windows
 # AutoHotkey v1.1
 https://www.autohotkey.com/
 
+# key
+| Key | Code |
+| ---- | ---- |
+| Win | # |
+| Alt | ! |
+| Ctrl | ^ |
+| Shift | + |
+
 # Function
 | Group | Function | Note | Hotkey |
 | ---- | ---- | ---- | ---- |
